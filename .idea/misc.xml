@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/library-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/library-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/library-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/library-book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/library-borrowing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/library-notification-service/pom.xml" />
       </list>
     </option>
   </component>
